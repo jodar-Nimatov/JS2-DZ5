@@ -1,0 +1,76 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Nike Air Max 270",
+            "gender": "men",
+            "brend": "nike",
+            "category": "street",
+            "price": 8000,
+            "images": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/dl2krirthxihbhgtkdv5/air-max-270-shoes-2V5C4p.png"
+        },
+        {
+            "id": 2,
+            "title": "HYBRID NX Men's Running Shoes",
+            "gender": "men",
+            "brend": "puma",
+            "category": "runnig",
+            "price": 15000,
+            "images": "https://m.media-amazon.com/images/I/81LejnOI2DL._UL1500_.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+            "gender": "men",
+            "brend": "adidas",
+            "category": "running",
+            "price":20000,
+            "images": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e2e35004ec594c93a593ae85011d8e5d_9366/Mahomes_1_Impact_FLX_Shoes_Red_GZ5006.jpg"
+        },
+        {
+            "id": 4,
+            "title": "New Balance",
+            "gender": "men",
+            "brend": "new balance",
+            "category": "training",
+            "price": 10000,
+            "images": "https://www.deadstock.de/wp-content/uploads/2021/07/New-Balance-530-Beige-titel.jpg"
+        },
+        {
+            "id": 5,
+            "title": "New Balance",
+            "gender": "women",
+            "brend": "new balance",
+            "category": "training",
+            "price": 30000,
+            "images": "https://www.deadstock.de/wp-content/uploads/2021/07/New-Balance-530-Beige-titel.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Jordan 4 Retro",
+            "gender": "men",
+            "brend": "Jordan",
+            "category": "street",
+            "price": 5600,
+            "images": "https://www.lastikpabuc.com/Uploads/UrunResimleri/buyuk/nike-air-jordan-4-retro-se-sneaker-kad-37d30-.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Adidas Yeezy 700 v3",
+            "gender": "men",
+            "brend": "adidas",
+            "category": "street",
+            "price": 5970,
+            "images": "https://www.thenextsole.com/storage/images/G54850.png"
+        },
+        {
+            "id": 8,
+            "title": "New Balance 550",
+            "gender": "women",
+            "brend": "new balance",
+            "category": "street",
+            "price": 7000,
+            "images": "https://cdn.shopify.com/s/files/1/0624/6101/8337/products/550-navy-blue-617930.png?v=1663368055"
+        }
+    ]
+}
